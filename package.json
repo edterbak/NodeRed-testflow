@@ -2,7 +2,12 @@
     "name": "NodeRed-testflow",
     "description": "temp project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-dashboard-bar-chart-data": "0.9.94",
+        "node-red-contrib-moment": "5.0.0",
+        "node-red-dashboard": "3.6.6",
+        "node-red-node-smooth": "0.1.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
