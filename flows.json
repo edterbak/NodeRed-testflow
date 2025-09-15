@@ -8144,7 +8144,6 @@
         "id": "baca3c05f54f13c8",
         "type": "link out",
         "z": "6cd33435dfb2b2bf",
-        "d": true,
         "name": "TIJDELIJK Z1 > Z2 RTC temp",
         "mode": "link",
         "links": [
